@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1589733742 source:c:\users\dominika.desktop-epac6nf\desktop\c++\cpp\programdoobslugibazydanych\klasa_menu.cpp
+	<iostream>
+	<windows.h>
+	"menu.h"
+	"klasa_menu.h"
+	"wyszukaj_rekord_menu.h"
+
+1589740359 c:\users\dominika.desktop-epac6nf\desktop\c++\cpp\programdoobslugibazydanych\menu.h
+	<iostream>
+	"osoba.h"
+	<vector>
+
+1589589210 c:\users\dominika.desktop-epac6nf\desktop\c++\cpp\programdoobslugibazydanych\osoba.h
+	<iostream>
+
+1589488622 c:\users\dominika.desktop-epac6nf\desktop\c++\cpp\programdoobslugibazydanych\klasa_menu.h
+	<iostream>
+
+1589583328 c:\users\dominika.desktop-epac6nf\desktop\c++\cpp\programdoobslugibazydanych\wyszukaj_rekord_menu.h
+	<iostream>
+
+1589644203 source:c:\users\dominika.desktop-epac6nf\desktop\c++\cpp\programdoobslugibazydanych\main.cpp
+	<iostream>
+	"menu.h"
+
+1589742390 source:c:\users\dominika.desktop-epac6nf\desktop\c++\cpp\programdoobslugibazydanych\menu.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<algorithm>
+	<string>
+	<iomanip>
+	<winbase.h>
+	"menu.h"
+	"wiek_menu.h"
+	"klasa_menu.h"
+	"wyszukaj_rekord_menu.h"
+
+1589500191 c:\users\dominika.desktop-epac6nf\desktop\c++\cpp\programdoobslugibazydanych\wiek_menu.h
+	<iostream>
+
+1589654129 source:c:\users\dominika.desktop-epac6nf\desktop\c++\cpp\programdoobslugibazydanych\osoba.cpp
+	<iostream>
+
+1589734024 source:c:\users\dominika.desktop-epac6nf\desktop\c++\cpp\programdoobslugibazydanych\wiek_menu.cpp
+	<iostream>
+	<windows.h>
+	"menu.h"
+	"wiek_menu.h"
+
+1589644177 source:c:\users\dominika.desktop-epac6nf\desktop\c++\cpp\programdoobslugibazydanych\wstep_do_menu.cpp
+	<iostream>
+	<windows.h>
+	"menu.h"
+
+1589658224 source:c:\users\dominika.desktop-epac6nf\desktop\c++\cpp\programdoobslugibazydanych\wyszukaj_rekord_menu.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<iomanip>
+	"menu.h"
+	"wyszukaj_rekord_menu.h"
+
